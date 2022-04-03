@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2523c3Fd1043489Cb1C600401eb94aCDf8078832",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2523c3fd1043489cb1c600401eb94acdf8078832",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Yagodamaleniya",
+  "SYMBOL": "YNFT",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/yagodamaleniya",
+  "SHOW_BACKGROUND": true
+}
